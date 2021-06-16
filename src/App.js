@@ -8,32 +8,7 @@ class App extends Component {
     super();
 
     this.state = {
-      monsters: [
-        {
-          name: "HeatBlast",
-          id: "pk11",
-        },
-        {
-          name: "FourArms",
-          id: "pk12",
-        },
-        {
-          name: "Humongosaur",
-          id: "pk13",
-        },
-        {
-          name: "XLR8",
-          id: "pk14",
-        },
-        {
-          name: "SwarmFire",
-          id: "pk15",
-        },
-        {
-          name: "SpiderMonkey",
-          id: "pk16",
-        },
-      ],
+      monsters: [],
     };
   }
   componentDidMount() {
