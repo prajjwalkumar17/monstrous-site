@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/monstrous-site/static/css/main.6784ddbb.chunk.css",
-    "main.js": "/monstrous-site/static/js/main.ff864b7c.chunk.js",
-    "main.js.map": "/monstrous-site/static/js/main.ff864b7c.chunk.js.map",
+    "main.css": "/monstrous-site/static/css/main.82a45eb4.chunk.css",
+    "main.js": "/monstrous-site/static/js/main.493be8ca.chunk.js",
+    "main.js.map": "/monstrous-site/static/js/main.493be8ca.chunk.js.map",
     "runtime-main.js": "/monstrous-site/static/js/runtime-main.592a0afd.js",
     "runtime-main.js.map": "/monstrous-site/static/js/runtime-main.592a0afd.js.map",
     "static/js/2.99166521.chunk.js": "/monstrous-site/static/js/2.99166521.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.79e0640c.chunk.js": "/monstrous-site/static/js/3.79e0640c.chunk.js",
     "static/js/3.79e0640c.chunk.js.map": "/monstrous-site/static/js/3.79e0640c.chunk.js.map",
     "index.html": "/monstrous-site/index.html",
-    "static/css/main.6784ddbb.chunk.css.map": "/monstrous-site/static/css/main.6784ddbb.chunk.css.map",
+    "static/css/main.82a45eb4.chunk.css.map": "/monstrous-site/static/css/main.82a45eb4.chunk.css.map",
     "static/js/2.99166521.chunk.js.LICENSE.txt": "/monstrous-site/static/js/2.99166521.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.592a0afd.js",
     "static/js/2.99166521.chunk.js",
-    "static/css/main.6784ddbb.chunk.css",
-    "static/js/main.ff864b7c.chunk.js"
+    "static/css/main.82a45eb4.chunk.css",
+    "static/js/main.493be8ca.chunk.js"
   ]
 }
